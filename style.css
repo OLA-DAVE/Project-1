@@ -163,3 +163,10 @@ padding-top: 60px;
   margin-right: 30px;
   font-size: 20px;
 }
+
+.arrow-link{
+color: white;
+float: right;
+margin: 20px;
+margin-top: 0;
+}
